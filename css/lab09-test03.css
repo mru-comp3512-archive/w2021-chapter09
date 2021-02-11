@@ -37,6 +37,7 @@ html {
      display: flex;
      flex-direction: column;
 }
+/*
  .panel1 {
      background-image:url(https://source.unsplash.com/8y8DbWwDTz4/1500x1500);
 }
@@ -52,6 +53,23 @@ html {
  .panel5 {
      background-image:url(https://source.unsplash.com/w8TtcStjyWY/1500x1500);
 }
+*/
+.panel1 {
+     background-image:url(https://res.cloudinary.com/funwebdev/image/upload/v1589661805/travel/15128113051.jpg);
+}
+ .panel2 {
+     background-image:url(https://res.cloudinary.com/funwebdev/image/upload/v1589661807/travel/21587937686.jpg);
+}
+ .panel3 {
+     background-image:url(https://res.cloudinary.com/funwebdev/image/upload/v1589661805/travel/9504609042.jpg);
+}
+ .panel4 {
+     background-image:url(https://res.cloudinary.com/funwebdev/image/upload/v1589661803/travel/9498381010.jpg);
+}
+ .panel5 {
+     background-image:url(https://res.cloudinary.com/funwebdev/image/upload/v1589661803/travel/9498358806.jpg);
+}
+
  .panel > * {
      margin:0;
      width: 100%;
